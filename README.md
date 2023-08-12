@@ -1,2 +1,2 @@
 # calculator
-python gui calculator using PyQt5
+Python GUI calculator using PyQt5
